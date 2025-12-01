@@ -20,12 +20,15 @@ Unity 엔진을 활용한 2D 퍼즐 게임 & 3D 액션 RPG, Socket API 기반 �
 
 ## 🎮 DX11 자체 엔진 개발 프로젝트 [(상세보기)](https://github.com/Myoungcholho/DX_Portfolio/tree/main)
 
+[![Video](https://img.youtube.com/vi/CVj2y5PXsnw/0.jpg)](https://www.youtube.com/watch?v=CVj2y5PXsnw)
+
 > 개발 기간 : 2025.05 ~ 2025.10 (156일)
 > 
 > 
 > *DX11 기반으로 언리얼 엔진 구조를 참고해,
 > 자체 게임 엔진을 구현한 프로젝트입니다.*
 > 
+
 
 ### 🔧사용 기술 및 툴
 
@@ -50,6 +53,8 @@ Unity 엔진을 활용한 2D 퍼즐 게임 & 3D 액션 RPG, Socket API 기반 �
 
 ## 🎮언리얼 3D 액션 게임 프로젝트 [(상세보기)](https://github.com/Myoungcholho/UnrealPortfolioSource/tree/master)
 
+[![Video](https://img.youtube.com/vi/xfAdjhyRtIA/0.jpg)](https://www.youtube.com/watch?v=xfAdjhyRtIA)
+
 > 개발 기간 : 2025.01.06 ~ 2025.04.02 (87일)
 > 
 > 
@@ -72,6 +77,8 @@ Unity 엔진을 활용한 2D 퍼즐 게임 & 3D 액션 RPG, Socket API 기반 �
 
 ## 🎮Unity3D 액션 게임 프로젝트 [(상세보기)](https://github.com/Myoungcholho/3D_Portfolio)
 
+[![Video](https://img.youtube.com/vi/rzw9Piw8OtU/0.jpg)](https://www.youtube.com/watch?v=rzw9Piw8OtU&t=10s)
+
 > 개발 기간 : 2024.06.26 ~ 2024.11.04 (131일)
 > 
 > 
@@ -93,6 +100,8 @@ Unity 엔진을 활용한 2D 퍼즐 게임 & 3D 액션 RPG, Socket API 기반 �
 
 ## 🎮Unity2D 퍼즐 게임 개발 프로젝트 [(상세보기)](https://github.com/Myoungcholho/2DGame_JonsIsland)
 
+[![Video](https://img.youtube.com/vi/gmhPEFaor1c/0.jpg)](https://www.youtube.com/watch?v=gmhPEFaor1c&t=17s)
+
 > 개발 기간 : 2023.04.11 ~ 2023.10.11 (184일)
 > 
 > 
@@ -113,6 +122,8 @@ Unity 엔진을 활용한 2D 퍼즐 게임 & 3D 액션 RPG, Socket API 기반 �
 - UI·사운드 & 저장: 키/사운드 설정, 화면 UI·인벤토리·지도, JSON 기반 세이브/로드 시스템
 
 ## 🎮Win32 길찾기 알고리즘 프로젝트 [(상세보기)](https://github.com/Myoungcholho/JPS_Algorithm)
+
+[![Video](https://img.youtube.com/vi/qD_K3rB_-tY/0.jpg)](https://www.youtube.com/watch?v=qD_K3rB_-tY)
 
 > 개발 기간 : 2023.03.22 ~ 2023.04.03 (12일)
 > 
