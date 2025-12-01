@@ -1,6 +1,6 @@
 # 자기 소개
 
-저는 성능과 프레임 단위에서 느껴지는 플레이 감각을 중시하는 개발자입니다.  
+저는 성능과 프레임 단위에서 느껴지는 플레이 감각을 중시합니다.
 
 DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단축했고,  
 인스턴싱을 도입해 렌더링 성능을 40.9 FPS에서 112.1 FPS(약 174% 향상)까지 개선한 경험이 있습니다.
@@ -15,14 +15,15 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ## 🎮 DX11 자체 엔진 개발 프로젝트 [(상세보기)](https://github.com/Myoungcholho/DX_Portfolio/tree/main)
 
-[![Video](https://img.youtube.com/vi/CVj2y5PXsnw/0.jpg)](https://www.youtube.com/watch?v=CVj2y5PXsnw)
-
 > 개발 기간 : 2025.05 ~ 2025.10 (156일)
 > 
 > 
 > *DX11 기반으로 언리얼 엔진 구조를 참고해,
 > 자체 게임 엔진을 구현한 프로젝트입니다.*
-> 
+
+> 대규모 군집 애니메이션에서 Fixed 기반 구조의 오버헤드 문제를 Tick 기반으로 전환하여 성능 개선을 진행했습니다. (40.9FPS → 112.1FPS)
+<img src="https://github.com/user-attachments/assets/dffc2176-d743-4aae-90b8-446c3935ae4a" width="600">
+
 
 
 ### 🔧사용 기술 및 툴
