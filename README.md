@@ -15,22 +15,19 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 # 프로젝트
 
-## 🎮 DX11 자체 엔진 프로젝트
-
-### 개요
-
-언리얼 아키텍처, 렌더링 파이프라인, 애니메이션 시스템, 인스턴싱, 멀티스레드 구조를 구현한 DX11 기반 자체 엔진 프로젝트입니다.
-
-📎 **[엔진 구조 및 기술 상세 보기](https://github.com/Myoungcholho/DX_Portfolio/tree/main)**
-
----
+## 🎮 DX11 자체 엔진 프로젝트 [(상세보기)](https://github.com/Myoungcholho/DX_Portfolio/tree/main)
 
 **개발 기간** | 2025.05 ~ 2025.10 (156일)  
 **개발 인원** | 1인  
 
 ### 대표 미리보기
-> 대규모 캐릭터 애니메이션 환경에서 발생한 성능 병목을 해결하며, **40.9FPS → 112.1FPS**, Instancing 기반 최적화를 달성했습니다.
-<img src="https://github.com/user-attachments/assets/dffc2176-d743-4aae-90b8-446c3935ae4a" width="600">
+> 언리얼 아키텍처, 렌더링 파이프라인, 애니메이션 시스템, 인스턴싱, 멀티스레드 구조를 구현한 DX11 기반 자체 엔진 프로젝트입니다.
+<p align="center">
+  <img
+    width="800"
+    src="https://github.com/user-attachments/assets/dffc2176-d743-4aae-90b8-446c3935ae4a"
+    alt="DirectX 11 Engine Editor Screenshot" />
+</p>
 
 ### 🔧사용 기술 및 툴
 
@@ -54,14 +51,17 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ## 🎮언리얼 3D 액션 게임 프로젝트 [(상세보기)](https://github.com/Myoungcholho/UnrealPortfolioSource/tree/master)
 
-[![Video](https://img.youtube.com/vi/xfAdjhyRtIA/0.jpg)](https://www.youtube.com/watch?v=xfAdjhyRtIA)
+**개발 기간** | 2025.01.06 ~ 2025.04.02 (87일)  
+**개발 인원** | 1인  
 
-> 개발 기간 : 2025.01.06 ~ 2025.04.02 (87일)
-> 
-> 
-> *언리얼 엔진 기반 3D 액션 RPG로, 캐릭터·전투·AI·UI 등
-> 핵심 게임플레이 시스템을 1인 개발로 구현한 프로젝트입니다.*
-> 
+### 대표 미리보기
+> 언리얼 엔진 기반 3D 액션 RPG로, 캐릭터·전투·AI·UI 등 핵심 게임플레이 시스템을 1인 개발로 구현한 프로젝트입니다.
+<p align="center">
+  <img
+    width="800"
+    src="https://github.com/user-attachments/assets/19a7d879-6a57-4b4d-961b-5254333bce36"
+    alt="Unreal" />
+</p>
 
 ### 🔧사용 기술 및 툴
 
@@ -78,19 +78,22 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ## 🎮Unity3D 액션 게임 프로젝트 [(상세보기)](https://github.com/Myoungcholho/3D_Portfolio)
 
-[![Video](https://img.youtube.com/vi/rzw9Piw8OtU/0.jpg)](https://www.youtube.com/watch?v=rzw9Piw8OtU&t=10s)
+**개발 기간** | 2024.06.26 ~ 2024.11.04 (131일)  
+**개발 인원** | 1인  
 
-> 개발 기간 : 2024.06.26 ~ 2024.11.04 (131일)
-> 
-> 
-> *Unity 기반 3D 액션 게임으로, 플레이어·전투·AI·UI 등
-> 핵심 게임플레이 시스템을 1인 개발로 구현한 프로젝트입니다.*
-> 
+### 대표 미리보기
+> Unity 기반 3D 액션 게임으로, 플레이어·전투·AI·UI 등 핵심 게임플레이 시스템을 1인 개발로 구현한 프로젝트입니다.
+<p align="center">
+  <img
+    width="800"
+    src="https://github.com/user-attachments/assets/ec6bebb4-e8f3-49d5-bb1b-de41042f192e"
+    alt="Unity3D" />
+</p>
 
 ### 🔧사용 기술 및 툴
 
-- 언어 : **C#**
-- 엔진 : **Unity**
+- 언어 : C#
+- 엔진 : Unity
 
 ### 📌담당 업무 및 경험
 
@@ -101,14 +104,18 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ## 🎮Unity2D 퍼즐 게임 개발 프로젝트 [(상세보기)](https://github.com/Myoungcholho/2DGame_JonsIsland)
 
-[![Video](https://img.youtube.com/vi/gmhPEFaor1c/0.jpg)](https://www.youtube.com/watch?v=gmhPEFaor1c&t=17s)
+**개발 기간** | 2023.04.11 ~ 2023.10.11 (184일)  
+**개발 인원** | 5인  
 
-> 개발 기간 : 2023.04.11 ~ 2023.10.11 (184일)
-> 
-> 
-> *Unity 기반 2D 퍼즐 게임으로, 팀장으로 참여해 코어 기획부터
-> 플레이어 상호작용, 게임 시스템, UI·저장까지 전반을 담당한 프로젝트입니다.*
-> 
+### 대표 미리보기
+> Unity 기반 2D 퍼즐 게임으로, 팀장으로 참여해 코어 기획부터 플레이어 상호작용, 게임 시스템, UI·저장까지 전반을 담당한 프로젝트입니다.
+<p align="center">
+  <img
+    width="800"
+    src="https://github.com/user-attachments/assets/c9d4e36b-e065-4732-8626-eded706918ba"
+    alt="Unity2D" />
+</p>
+
 
 ### 🔧사용 기술 및 툴
 
@@ -124,15 +131,17 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ## 🎮Win32 길찾기 알고리즘 프로젝트 [(상세보기)](https://github.com/Myoungcholho/JPS_Algorithm)
 
-[![Video](https://img.youtube.com/vi/qD_K3rB_-tY/0.jpg)](https://www.youtube.com/watch?v=qD_K3rB_-tY)
+**개발 기간** | 2023.03.22 ~ 2023.04.03 (12일)  
+**개발 인원** | 1인  
 
-> 개발 기간 : 2023.03.22 ~ 2023.04.03 (12일)
-> 
-> 
-> *Win32 환경에서 A* 및 JPS 길찾기 알고리즘을 직접 구현하고,
-> 
-> 알고리즘 실행을 시각적으로 확인할 수 있도록 타일 기반 UI를 구축한 프로젝트입니다.
-> 
+### 대표 미리보기
+> Win32 환경에서 A 및 JPS 길찾기 알고리즘을 직접 구현하고 알고리즘 실행을 시각적으로 확인할 수 있도록 타일 기반 UI를 구축한 프로젝트입니다.
+<p align="center">
+  <img
+    width="800"
+    src="https://github.com/user-attachments/assets/3b6c3139-b4d0-4037-8176-a2af6bdd9d6d"
+    alt="Algorithm" />
+</p>
 
 ### 🔧사용 기술 및 툴
 
@@ -147,12 +156,18 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ## 🎮서버 개발 프로젝트 [(상세보기)](https://github.com/Myoungcholho/TCPFightServer)
 
-> 개발 기간 : 2023.02.24 ~ 2023.03.06 (10일)
-> 
-> 
-> *TCP 기반 통신 구조를 이해하고, 패킷 직렬화·역직렬화 모듈과
-> 링버퍼 기반 패킷 처리 구조를 구현한 서버 사이드 프로젝트입니다.*
-> 
+**개발 기간** | 개발 기간 : 2023.02 ~ 2023.03 (40일)  
+**개발 인원** | 1인  
+
+### 대표 미리보기
+> TCP 기반 통신 구조를 이해하고, 패킷 직렬화·역직렬화 모듈과 링버퍼 기반 패킷 처리 구조를 구현한 서버 사이드 프로젝트입니다.
+<p align="center">
+  <img
+    width="800"
+    src="https://github.com/user-attachments/assets/1c82b3fa-81e5-4323-9c8b-08d59561bc0d"
+    alt="Server"
+    style="pointer-events: none;"/>
+</p>
 
 ### 🔧사용 기술 및 툴
 
