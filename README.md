@@ -40,7 +40,8 @@ DirectX11 기반 엔진에서 리소스 로딩 시간을 58초에서 8초로 단
 
 ### 📌핵심 기술 구현 내용
 
-- GT/RT MailBox 기반 스냅샷 소비 모델 렌더링 코어 아키텍처 구축
+- GameThread/RednerThread 분리 아키텍처 (MailBox 기반 DoubleBuffer 스냅샷 소비 모델)
+- 델리게이트 시스템
 - Actor / Component / SceneComponent 기반 월드 객체 구조 & Transform 시스템 설계
 - 렌더링 파이프라인 구축
 - Instancing 및 GPU 드로우콜 최적화
